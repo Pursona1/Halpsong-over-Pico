@@ -1,2 +1,1 @@
-# Halpsong-over-Pico
-game bannana mod
+to use the mod just go to assets folder go to data then go to pico and replace the pico.json with the one in this folder and for the music go to assests then music then put in there and replace that Pico_Inst
